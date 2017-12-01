@@ -4,3 +4,9 @@ class Dog
     @breed = breed
   end
 end
+
+class Person
+  def initialize(name)
+    @name = name
+  end
+end
